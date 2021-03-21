@@ -1,2 +1,4 @@
 logpass.py
-.idea/vcs.xml
+.idea
+vk_config.v2.json
+debug.log
