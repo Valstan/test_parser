@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa2ff165-27c1-4994-9de8-d292a0d8fab0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dwaPkX5ma5YA922WEXoZ7uZJmZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/env/parser" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/moduls/utils" />
+      <recent name="$PROJECT_DIR$/moduls/read_write" />
+      <recent name="$PROJECT_DIR$/moduls/sort" />
+      <recent name="D:\ЯндескДискЭкипаж\test_parser\moduls" />
+      <recent name="D:\ЯндескДискЭкипаж\test_parser" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/bases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.start">
+    <configuration name="post_me" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moduls" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/moduls/post_me.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reklama" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/moduls" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ЯндескДискЭкипаж\test_parser\moduls\reklama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reklama" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\ЯндескДискЭкипаж\test_parser\moduls\reklama.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="udalenie_postov_v_gruppe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/udalenie_postov_v_gruppe.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="yaroslav" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils/old" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/old/yaroslav.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+        <item itemvalue="Python.post_me" />
+        <item itemvalue="Python.reklama" />
+        <item itemvalue="Python.udalenie_postov_v_gruppe" />
+        <item itemvalue="Python.yaroslav" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa2ff165-27c1-4994-9de8-d292a0d8fab0" name="Default Changelist" comment="" />
+      <created>1593338586238</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593338586238</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="394" y="95" key="#Inspections" timestamp="1600763480877">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="394" y="95" key="#Inspections/0.0.1536.834@0.0.1536.834" timestamp="1600763480877" />
+    <state x="652" y="163" key="#Log_Highlighting_(ideolog)" timestamp="1601494583389">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="652" y="163" key="#Log_Highlighting_(ideolog)/0.0.1366.732@0.0.1366.732" timestamp="1601494583389" />
+    <state x="535" y="218" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600077050429">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="535" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1600077050429" />
+    <state x="443" y="143" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1598905983484">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="443" y="143" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.732@0.0.1366.732" timestamp="1598905983484" />
+    <state x="487" y="150" width="424" height="483" key="FileChooserDialogImpl" timestamp="1602529377334">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="487" y="150" width="424" height="483" key="FileChooserDialogImpl/0.0.1366.732@0.0.1366.732" timestamp="1602529377334" />
+    <state x="548" y="171" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1602326176046" />
+    <state width="1343" height="390" key="GridCell.Tab.0.bottom" timestamp="1602533373857">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.0.bottom/0.0.1366.732@0.0.1366.732" timestamp="1602533373857" />
+    <state width="1513" height="298" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.0.center" timestamp="1602533373855">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.0.center/0.0.1366.732@0.0.1366.732" timestamp="1602533373855" />
+    <state width="1513" height="298" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.0.left" timestamp="1602533373854">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.0.left/0.0.1366.732@0.0.1366.732" timestamp="1602533373854" />
+    <state width="1513" height="298" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.0.right" timestamp="1602533373856">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.0.right/0.0.1366.732@0.0.1366.732" timestamp="1602533373856" />
+    <state width="1513" height="298" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.1.bottom" timestamp="1602533373862">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.1.bottom/0.0.1366.732@0.0.1366.732" timestamp="1602533373862" />
+    <state width="1513" height="298" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.1.center" timestamp="1602533373858">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.1.center/0.0.1366.732@0.0.1366.732" timestamp="1602533373858" />
+    <state width="1513" height="298" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.1.left" timestamp="1602533373858">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.1.left/0.0.1366.732@0.0.1366.732" timestamp="1602533373858" />
+    <state width="1513" height="298" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state width="1343" height="390" key="GridCell.Tab.1.right" timestamp="1602533373861">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="1343" height="390" key="GridCell.Tab.1.right/0.0.1366.732@0.0.1366.732" timestamp="1602533373861" />
+    <state width="1513" height="298" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1601709400140" />
+    <state x="133" y="3" key="SettingsEditor" timestamp="1602530333600">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state x="133" y="3" key="SettingsEditor/0.0.1366.732@0.0.1366.732" timestamp="1602530333600" />
+    <state x="150" y="57" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1602326296044" />
+    <state width="683" height="366" key="XDebugger.FullValuePopup" timestamp="1600889594910">
+      <screen x="0" y="0" width="1366" height="732" />
+    </state>
+    <state width="683" height="366" key="XDebugger.FullValuePopup/0.0.1366.732@0.0.1366.732" timestamp="1600889594910" />
+    <state width="768" height="417" key="XDebugger.FullValuePopup/0.0.1536.834@0.0.1536.834" timestamp="1600844330957" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1596952606488">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1596952606488" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/proverkaivana.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
