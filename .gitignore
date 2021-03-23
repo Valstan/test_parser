@@ -1,5 +1,5 @@
-logpass.py
 .idea
-vk_config.v2.json
-debug.log
-venv
+/vk_config.v2.json
+/venv/
+/logpass.py
+/debug.log
