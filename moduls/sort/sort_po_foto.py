@@ -4,6 +4,8 @@ from PIL import Image
 
 from config import bases, fimage
 from moduls.read_write.get_image import image_get
+from moduls.sort.sort_black_list import sort_black_list
+from moduls.utils.tesseract import tesseract
 
 
 def sort_po_foto(msg, base):
@@ -15,8 +17,9 @@ def sort_po_foto(msg, base):
         hash_object = hashlib.md5(str(histo).encode())
         histo = hash_object.hexdigest()
         if histo in base['hash']:
-            msg = []
-            histo = ''
+            return [], ''
+        if sort_black_list(tesseract(bases + fimage)):
+            return [], histo
 
     return msg, histo
 

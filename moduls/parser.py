@@ -24,7 +24,7 @@ def parser(vkapp, base, name_novost):
         sample = clear_copy_history(sample)
         sample, skleika = sort_lip(sample, base['lip'])
         if not sample: continue
-        if sort_black_list(sample):
+        if sort_black_list(sample['text']):
             continue
         sample = correct_txt(sample)
         sample = sort_views_bezfoto(sample)
