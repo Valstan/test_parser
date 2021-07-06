@@ -12,6 +12,3 @@ def tesseract(patch):
         return pytesseract.image_to_string(img, lang='rus', config=custom_config)
     except:
         return 'пусто'
-
-# cv2.imshow('Result', img)
-# cv2.waitKey(0)
